@@ -7,8 +7,8 @@
     "Bootstrap 4",
     "Font Awesome 5"
   ],
-  "website": "https://ruby2-rails5-bootstrap-heroku.herokuapp.com/",
-  "repository": "https://github.com/diowa/ruby2-rails5-bootstrap-heroku",
+  "website": "https://uk-police-data.herokuapp.com/",
+  "repository": "https://github.com/diowa/uk-police-data",
   "success_url": "/",
   "scripts": {
     "postdeploy": "bundle exec rake db:migrate"
