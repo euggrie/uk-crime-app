@@ -2,8 +2,8 @@
   "name": "uk-police-data",
   "private": true,
   "engines": {
-    "node": ">=8",
-    "yarn": "^1.5"
+    "node": "^11.0.0",
+    "yarn": "^1.12.1"
   },
   "browserslist": [
     "Chrome >= 45",
